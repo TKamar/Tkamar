@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: To find a New Job as a Software Engineer
 <!-- - ⚡ Fun fact: I danced breakdance for 8 years 🕺🏽🕺🏽 -->
 
-### Connect with me:
+### Connect with me:   
 
 [<img align="left" alt="Tomer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tomer | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
