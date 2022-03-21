@@ -1,4 +1,4 @@
-# Hi there, I'm Tomer Kamar - Web & Mobile Developer 👋 
+# Hi there, I'm Tomer Kamar - Software Engineer 👋 
 
 ## FullStack Web Developer and Mobile Developer !
 - 👨‍🎓 I'm a Software Engineering Student
