@@ -4,7 +4,7 @@
 - 👨‍🎓 I'm a Software Engineering Student
 - ⭐ I have real Work Experience - Currently working ⚡
 - 🌱 I’m currently learning Android , iOS Developing 🔥🔥🔥
-- 🥅 2022 Goals: To find a New Job as a Software Engineer
+- 🥅 2023 Goals: To find a New Job as a Software Engineer
 <!-- - ⚡ Fun fact: I danced breakdance for 8 years 🕺🏽🕺🏽 -->
 
 ### Connect with me:   
