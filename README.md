@@ -1,10 +1,11 @@
 # Hi there, I'm Tomer Kamar - Software Engineer 👋 
 
 ## FullStack Web Developer and Mobile Developer !
-- 👨‍🎓 I'm a Software Engineering Student
-- ⭐ I have real Work Experience - Currently working ⚡
-- 🌱 I’m currently learning Android , iOS Developing 🔥🔥🔥
-- 🥅 2023 Goals: To find a New Job as a Software Engineer
+- 👨‍🎓 I'm a Software Engineering
+- ⭐ Real Work Experience - Currently working ⚡
+- 🌱 Professional in web and mobile application development 🔥🔥🔥
+- ⛷️ Skiing/Snowboarding as a hobby 🤩
+<!-- - - 🥅 2024 Goals: To find a New Job as a Software Engineer -->
 <!-- - ⚡ Fun fact: I danced breakdance for 8 years 🕺🏽🕺🏽 -->
 
 ### Connect with me:   
