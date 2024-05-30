@@ -17,6 +17,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/gist/jenstrickland/dd496d1c60d1c27d01dc5c41a6e15277/raw/ea3b97c2bbf837c4771e96ae0360271cbe0cda83/angular-seeklogo.com.svg" />][github]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][github]
